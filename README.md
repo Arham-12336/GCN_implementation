@@ -18,3 +18,6 @@ A hidden layer in the GCN can thus be written as Hⁱ = f(Hⁱ⁻¹, A)) where H
 
 ## A simple working of GCN
 <img src="./GNN-img.jpg">
+
+## Related links
+* https://towardsdatascience.com/graph-embeddings-how-nodes-get-mapped-to-vectors-2e12549457ed
